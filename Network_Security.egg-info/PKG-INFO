@@ -1,4 +1,4 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: Network-Security
 Version: 0.0.1
 Author: shachee bhat
@@ -7,7 +7,8 @@ Requires-Dist: python-dotenv
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: pymongo
+Requires-Dist: pymongo[srv]==3.12
 Requires-Dist: certifi
-Dynamic: author
-Dynamic: author-email
-Dynamic: requires-dist
+Requires-Dist: scikit-learn
+Requires-Dist: dill
+Requires-Dist: pyaml

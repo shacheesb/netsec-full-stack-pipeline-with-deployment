@@ -1,0 +1,13 @@
+[ 2025-07-13 18:20:33,477 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-07-13 18:20:34,341 ] 17 root - INFO - Initiate the data ingestion
+[ 2025-07-13 18:20:36,060 ] 64 root - INFO - Performed train test split on the dataframe
+[ 2025-07-13 18:20:36,060 ] 66 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[ 2025-07-13 18:20:36,060 ] 74 root - INFO - Exporting train and test file path.
+[ 2025-07-13 18:20:36,158 ] 83 root - INFO - Exported train and test file path.
+[ 2025-07-13 18:20:36,158 ] 19 root - INFO - Data Initiation completed
+[ 2025-07-13 18:20:36,160 ] 23 root - INFO - Initiate the data validation
+[ 2025-07-13 18:20:36,178 ] 34 root - INFO - Required number of columns:2
+[ 2025-07-13 18:20:36,178 ] 35 root - INFO - Data frame has columns:31
+[ 2025-07-13 18:20:36,178 ] 34 root - INFO - Required number of columns:2
+[ 2025-07-13 18:20:36,178 ] 35 root - INFO - Data frame has columns:31
+[ 2025-07-13 18:20:36,309 ] 26 root - INFO - Data Validation complete

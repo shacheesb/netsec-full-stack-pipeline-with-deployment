@@ -1,0 +1,25 @@
+[ 2025-07-15 12:44:00,252 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-07-15 12:44:01,275 ] 22 root - INFO - Initiate the data ingestion
+[ 2025-07-15 12:44:02,996 ] 64 root - INFO - Performed train test split on the dataframe
+[ 2025-07-15 12:44:02,996 ] 66 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[ 2025-07-15 12:44:02,996 ] 74 root - INFO - Exporting train and test file path.
+[ 2025-07-15 12:44:03,060 ] 83 root - INFO - Exported train and test file path.
+[ 2025-07-15 12:44:03,060 ] 24 root - INFO - Data Initiation completed
+[ 2025-07-15 12:44:03,062 ] 28 root - INFO - Initiate the data validation
+[ 2025-07-15 12:44:03,080 ] 34 root - INFO - Required number of columns:2
+[ 2025-07-15 12:44:03,080 ] 35 root - INFO - Data frame has columns:31
+[ 2025-07-15 12:44:03,080 ] 34 root - INFO - Required number of columns:2
+[ 2025-07-15 12:44:03,080 ] 35 root - INFO - Data frame has columns:31
+[ 2025-07-15 12:44:03,208 ] 31 root - INFO - Data Validation complete
+[ 2025-07-15 12:44:03,208 ] 33 root - INFO - data transformation started
+[ 2025-07-15 12:44:03,208 ] 63 root - INFO - Entered initiate_data_transformation method of DataTransformation class
+[ 2025-07-15 12:44:03,208 ] 65 root - INFO - Starting data transformation
+[ 2025-07-15 12:44:03,226 ] 48 root - INFO - Entered get_data_trnasformer_object method of Trnasformation class
+[ 2025-07-15 12:44:03,227 ] 53 root - INFO - Initialise KNNImputer with {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}
+[ 2025-07-15 12:44:03,233 ] 47 root - INFO - Entered the save_object method of MainUtils class
+[ 2025-07-15 12:44:03,236 ] 51 root - INFO - Exited the save_object method of MainUtils class
+[ 2025-07-15 12:44:03,236 ] 47 root - INFO - Entered the save_object method of MainUtils class
+[ 2025-07-15 12:44:03,238 ] 51 root - INFO - Exited the save_object method of MainUtils class
+[ 2025-07-15 12:44:03,239 ] 37 root - INFO - data transformation completed
+[ 2025-07-15 12:44:03,239 ] 38 root - INFO - Model Training started
+[ 2025-07-15 12:44:03,239 ] 39 root - INFO - Model Training started
